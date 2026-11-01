@@ -29,3 +29,9 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+
+# Face recognition dataset
+data/
+
+# Generated test results
+tests/*.pickle
